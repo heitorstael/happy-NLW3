@@ -1,0 +1,5 @@
+.env
+node_modules
+.expo-shared
+yarn-error.log
+.DS_Store
